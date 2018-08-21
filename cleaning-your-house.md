@@ -1,15 +1,14 @@
 # Preparation for cleaning your house
 
-
-01. Do NOT depart for your home alone, have atleast two Adults with you , so that incase of emergency help can be readily available \(there have been cases of people having a Heart Attack after witnessing their destroyed homes\).
-02. When going back home for the first time after the floods , do NOT take children along, we cannot predict what we will experience there or what dangers we will face, do NOT let  children be exposed to physical or mental dangers 
-03. Do NOT go to your home at night, dangers such as snakes and gas leaks can be present
-04. After floods it is possible for the roads and front yard leading up to your home to be piled up with mud up to a height of 1 feet , difficulty in opening the gate may be experienced
-05. The possibility of poorly built walls collapsing upon opening the gate is high, be careful and open the gates slowly  
-06. Avoid slipping and falling in the mud, use footwear like boots with thick soles for better grip. Ensure your safety by wearing a mask. If a mask is not available , tie a cloth around your nose and keep sturdy ropes on hand in case of emergency
-07. It is possible for the corpses of humans or animals to be washed up near our homes.               If a corpse is found, do NOT touch it with bare hands. If a Human Corpse is found contact the police
-08. Before entering the house take a note of how high the water reached by checking the marks on the walls, make a mark using paint or other markers. The flood we have faced is something that is only experienced once in a century, the cause of such widespread distruction was partly due to no records existing of any such events in the past. let us not let the future generations suffer as we did
-09. Before entering the house take pictures from all around the house and keep track of signs that may suggest that the house is damaged
+1. Do NOT depart for your home alone, have atleast two Adults with you , so that incase of emergency help can be readily available \(there have been cases of people having a Heart Attack after witnessing their destroyed homes\).
+2. When going back home for the first time after the floods , do NOT take children along, we cannot predict what we will experience there or what dangers we will face, do NOT let  children be exposed to physical or mental dangers 
+3. Do NOT go to your home at night, dangers such as snakes and gas leaks can be present
+4. After floods it is possible for the roads and front yard leading up to your home to be piled up with mud up to a height of 1 feet , difficulty in opening the gate may be experienced
+5. The possibility of poorly built walls collapsing upon opening the gate is high, be careful and open the gates slowly  
+6. Avoid slipping and falling in the mud, use footwear like boots with thick soles for better grip. Ensure your safety by wearing a mask. If a mask is not available , tie a cloth around your nose and keep sturdy ropes on hand in case of emergency
+7. It is possible for the corpses of humans or animals to be washed up near our homes.               If a corpse is found, do NOT touch it with bare hands. If a Human Corpse is found contact the police
+8. Before entering the house take a note of how high the water reached by checking the marks on the walls, make a mark using paint or other markers. The flood we have faced is something that is only experienced once in a century, the cause of such widespread distruction was partly due to no records existing of any such events in the past. let us not let the future generations suffer as we did
+9. Before entering the house take pictures from all around the house and keep track of signs that may suggest that the house is damaged
 10. If possible try to open the windows of the house from the outside and wait for sometime, only then enter the house
 11. Be conscious about snakes both in and around your boundary.
 12. Switch off your Electric Main switch before entering the house. Turn off the

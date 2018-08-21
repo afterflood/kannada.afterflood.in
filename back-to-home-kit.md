@@ -1,7 +1,6 @@
 # Back to Home Kit
 
 {% hint style="info" %}
-
 1. Washing Powder 
 2. Bleaching powder
 3. Mosquito coil 
@@ -12,8 +11,5 @@
 8. Toothpaste
 9. Water Bottle 
 10. Bathing Soap
-
 {% endhint %}
-
-
 

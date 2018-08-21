@@ -1,9 +1,7 @@
 # Let us Return Home Safely!
 
 {% hint style="danger" %}
-
 **Go Back During Daytime Only**
-
 {% endhint %}
 
 * Do not return home until authorities have advised that it is safe to do so 🔊

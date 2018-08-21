@@ -1,7 +1,6 @@
 # Personal Hygiene
 
 {% hint style="info" %}
-
 **Hand-washing**
 
 Keeping hands clean during an emergency helps prevent the spread of germs. If your tap water is not safe to use, wash your hands with soap and water that has been boiled or disinfected. Follow these steps to make sure you wash your hands properly:
@@ -27,25 +26,21 @@ Wash hands with soap and clean, running water \(if available\):
 * After touching an animal or animal waste
 * After touching garbage
 * Before and after treating a cut or wound
-
 {% endhint %}
 
 {% hint style="success" %}
 **Bathing**
 
 Bathing or showering after a **flood** should only be done with clean, safe water. Sometimes water that is not safe to drink can be used for bathing, but be careful not to swallow any water or get it in your eyes.
-
 {% endhint %}
 
 {% hint style="warning" %}
 ## Dental Hygiene
 
 Brushing your teeth after a water-related emergency should only be done with clean, safe water. Listen to local authorities to find out if tap water is safe to use.
-
 {% endhint %}
 
 {% hint style="danger" %}
-
 ## Wound Care
 
 Keeping wounds clean and covered is crucial during an emergency. Open wounds and rashes exposed to flood waters can become infected. To protect yourself and your family:
@@ -63,5 +58,5 @@ Keeping wounds clean and covered is crucial during an emergency. Open wounds and
 * There is a foreign object \(soil, wood, metal, or other objects\) embedded in the wound;
 * The wound is at special risk of infection \(such as a puncture by a dirty object\)
 * An old wound shows signs of becoming infected \(increased pain and soreness, swelling, redness, draining, or you develop a fever\).
-
 {% endhint %}
+

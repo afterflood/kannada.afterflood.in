@@ -6,12 +6,10 @@
 
   -Contents of freezer or refrigerator, including all meats and all fresh fruit and vegetables
 
-  -All boxed foods \( biscuits, bread, cake mix, tea-time snacks etc\) 
+  -All boxed foods \( biscuits, bread, cake mix, tea-time snacks etc\)
 
   -All bottled drinks and products in jars, including home preserves \(since the area under the seal of  
   jars and bottles cannot be properly disinfected\)
 
   -Cans with large dents or that reveal seepage
-
-
 
