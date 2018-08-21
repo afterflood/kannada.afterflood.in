@@ -97,7 +97,7 @@ description: The crowd sourced data hub for all after flood precautions
 ## Contribute to www.afterflood.in
 {% endhint %}
 
-1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in)
+1. Fork the [Github Repo](https://github.com/afterflood/kannada.afterflood.in)
 2. Add a new page and update `Readme.md & Summary.md`
 3. Send a PR with your Update
 
