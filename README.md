@@ -1,8 +1,10 @@
 ---
-description: The crowd sourced data hub for all after flood precautions
+description: >-
+  The crowd sourced data hub for all after flood precautions (ಪ್ರವಾಹದ ನಂತರ
+  ಕೈಗೊಳ್ಳಬೇಕಾದಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಗಳು)
 ---
 
-# \#AfterFlood
+# \#AfterFlood \(\#ಪ್ರವಾಹದನಂತರ\)
 
 ![](.gitbook/assets/afterflood-logo-01.png)
 
@@ -11,7 +13,7 @@ description: The crowd sourced data hub for all after flood precautions
 [**Read More: https://www.afterflood.in/cleaning/**](https://www.afterflood.in/easy-hack-for-cleaning)\*\*\*\*
 {% endhint %}
 
-## Health Management
+## Health Management \(ಆರೋಗ್ಯ ನಿರ್ವಹಣೆ\)
 
 {% page-ref page="prevent-illness-from-sewage.md" %}
 
@@ -23,13 +25,13 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="essential-medicines-to-be-kept-after-a-flood.md" %}
 
-## Waste Management
+## Waste Management \(ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ\)
 
 {% page-ref page="food-and-paper-waste-management.md" %}
 
 {% page-ref page="what-should-be-discarded-recovered.md" %}
 
-## Safety  Management
+## Safety  Management \(ಸುರಕ್ಷತಾ ನಿರ್ವಹಣೆ\)
 
 {% page-ref page="before-moving-back-in.md" %}
 
@@ -57,7 +59,7 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="building-strength-testing.md" %}
 
-## Videos
+## Videos \(ವೀಡಿಯೊಗಳು\)
 
 {% page-ref page="how-to-prevent-yourself-from-diseases-after-a-flood.md" %}
 
@@ -75,7 +77,7 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="remember-these-five-points-while-circulating-messages-in-social-media.md" %}
 
-## General Note
+## General Note \(ಒಟ್ಟಾರೆ ಸೂಚನೆ\)
 
 {% hint style="warning" %}
 ## Ensure building safety
