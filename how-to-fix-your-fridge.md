@@ -1,6 +1,16 @@
 # How to fix your fridge
 
 {% hint style="warning" %}
+**ಫ್ರಿಡ್ಜನ್ನು ಸರಿಪಡಿಸುವುದು ಹೇಗೆ:**
+
+ **ಎಚ್ಚರಿಕೆ:**
+
+ಪ್ರವಾಹ ನೀರಿನಿಂದ ಸಂಪರ್ಕ ಹೊಂದಿದ ಯಾವುದೇ ವಿದ್ಯುನ್ಮಾನ ಉಪಕರಣಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವುದಾಗಲಿ ಅಥವಾ ಬಿಸಿ ಮಾಡುವುದಾಗಲಿ ಅಥವ ತಣ್ಣಗೆ ಮಾಡುವುದಾಗಲಿ ಮಾಡಬೇಡಿ. ಗಂಭೀರವಾದ ಹಾನಿ ಮತ್ತು ಮಾರಣಾಂತಿಕ ಗಾಯಗಳು ಸಂಭವಿಸಬಹುದು.
+
+ಎಲ್ಲಾ ವಿದ್ಯುತ್ ಉಪಕರಣಗಳ ವೈರ್ ಗಳನ್ನು ಸ್ವಿಚ್ ಬೋರ್ಡ್ ನಿಂದ ತೆಗೆದು ಹಾಕಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಮೈನ್ ಸ್ವಿಚ್ ಬೋರ್ಡ್ ನಲ್ಲಿ ಸ್ವಿಚ್ ಅನ್ನು ಆಫ್ ಮಾಡಿ.  
+{% endhint %}
+
+{% hint style="warning" %}
 **CAUTION: don't start up any heating, cooling or other electrical equipment that has come in contact with flood water. Serious damage and life-threatening injury can occur. Make sure all electrical equipment is either unplugged or power to it has been disconnected at the main breaker.**
 {% endhint %}
 
